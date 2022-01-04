@@ -1,0 +1,14 @@
+.recommendedVideos {
+    padding-left: 1em;
+    max-width: 100%;
+
+}
+
+.recommendedVideoTitle {
+    max-width: 100%;
+}
+
+.recommendedVideo {
+    max-width: 100%;
+    padding-bottom: 1em;
+}

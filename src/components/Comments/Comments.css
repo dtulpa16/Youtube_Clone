@@ -1,0 +1,25 @@
+.comment {
+    font-size: 20pt;
+}
+
+.reply {
+    font-size:16pt;
+    text-indent: 2em;
+    background-color: rgb(233, 231, 231);
+}
+
+.comment-section {
+    padding: 2em;
+}
+
+.comment-box {
+    padding-top: 2em;
+}
+
+.reply-box {
+    padding-top: 1em;
+}
+
+.comment-button {
+    margin: 1em;
+}

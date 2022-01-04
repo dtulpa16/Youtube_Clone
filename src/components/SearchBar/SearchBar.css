@@ -1,0 +1,25 @@
+.searchButton {
+    height: 36px;
+    width: 50px;
+    background-color: rgba(253,45,45,1);
+    color: #fff;
+    border: none;
+    border-top-right-radius: 90px;
+    border-bottom-right-radius: 90px;
+    padding-left: 0;
+    text-align: center;
+}
+
+.searchBarParent {
+    border-top: 1 solid black;
+    display: inline-flex;
+    padding-left: 20em;
+    vertical-align: center;
+
+}
+#searchFor {
+    border-top-left-radius: 90px;
+    border-bottom-left-radius: 90px;
+    padding-right: 0em;
+    width: 30em;
+}

@@ -1,0 +1,27 @@
+.titlebar-nav {
+    background: rgb(241,111,114);
+    background: radial-gradient(circle, rgba(241,111,114,1) 9%, rgba(253,45,45,1) 67%); 
+    width: 100%;
+    color: #fff;
+    vertical-align: center;
+    display: inline-flex;
+}
+
+.logo {
+    text-align: left;
+    display: inline-flex;
+    padding-left: 2%;
+}
+
+.menu {
+    vertical-align: center;
+    text-align: center;
+    display: inline-flex;
+    padding-left: 73%;
+}
+
+h1 {
+    vertical-align: center;
+    padding-top: 5px;
+    padding-right: 1em;
+}

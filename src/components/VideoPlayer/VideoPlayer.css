@@ -1,0 +1,26 @@
+.videoInfo {
+    max-width: 100%;
+    display: inline-flex;
+    vertical-align: center;
+}
+
+.videoLikes {
+    display: inline-flex;
+    
+}
+
+.videoDislikes {
+    display: inline-flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+
+.videoDescription {
+    max-width: 100%;
+    height: 10%;
+}
+
+.videoPlayer {
+    border-bottom: 1px solid black;
+}

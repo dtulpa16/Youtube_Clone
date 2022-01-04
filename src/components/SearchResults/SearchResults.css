@@ -1,0 +1,22 @@
+.relatedVideoTitle {
+}
+
+.relatedVideo {
+    padding-left: 2em;
+}
+
+.allRelatedVideos {
+    max-width: 40%;
+    display: inline-flex;
+}
+
+.searchResults {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    border-top: 1px solid black;
+    overflow: auto;
+}
+
+img {
+    border: 5px solid rgb(231, 230, 230);
+}
